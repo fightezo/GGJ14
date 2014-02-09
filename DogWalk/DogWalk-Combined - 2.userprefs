@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Car_animator.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Scrolling.cs" Line="54" Column="38" />
+      <File FileName="Assets\Scripts\spawner.cs" Line="37" Column="13" />
+      <File FileName="Assets\Scripts\FrontKillBox.cs" Line="16" Column="37" />
+      <File FileName="Assets\Car_animator.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
