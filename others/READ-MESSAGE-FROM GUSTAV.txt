@@ -1,0 +1,27 @@
+Art to-dos
+
+animation
+-human
+ -running
+ -stopping
+ -(losing)?
+-dogs
+ -running
+-leash
+-obstacles
+ -cars (different colors)
+ -trucks
+ -squirrel
+ -dog
+ -cat
+-buttons (on and off)
+ -dog running
+ -dog stopping
+ -human stop
+ -human treat
+
+still images
+-starting menu
+-options
+ -sound/volume
+-background (suburban, parks, mountain trails)

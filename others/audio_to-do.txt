@@ -1,0 +1,37 @@
+Audio to-dos
+
+MUSIC
+x - Menu
+x - Normal Gameplay
+x - Dog Escapes
+- Impending Events???
+
+SOUND FX
+- Environment
+	- Birds, Wind, etc...
+	- Events:
+		- Cars
+		- rustling bush
+		- cat
+x		- other dogs
+		- dog whistle
+- Characters
+	- Human
+		- Footsteps
+		- Voices
+	- Dog
+		- Walking
+x		- panting
+x		- barking, variations
+		- growling
+		- attentive growl
+		
+VOICES
+- Player:
+	- "Hey!"
+	- "Get back here!"
+	- "Let's go for a walk!"
+	- "What's that?"
+	- "Here boy!"
+	
+- Alternate versions for dog perception

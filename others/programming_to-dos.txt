@@ -1,0 +1,22 @@
+Programming to-dos
+audio manager 
+-audio cues
+-music
+animation manager
+-respond animation
+random event
+-event init.
+input manager
+-4 buttons
+ -human
+ -dog
+game controller
+-points
+ -player gets point through time
+   -ex. 15sec = 1 point
+ -dogs get point by breaking loose
+   -ex. 5 events won = 1 point
+-tension on leash
+ -"tug of war" between both players depicted through colors
+
+DONE

@@ -1,0 +1,30 @@
+main menu GUI
+buttons
+-back
+-quit
+-retry?
+text
+-Human Wins!
+Dog Wins!
+animation for human pulling (sweating)
+creating the transition between before and during events
+instructions
+
+
+
+
+question:
+players randomly pressing the buttons have no effect on the scores right?
+
+we are thinking they may hurt the score, this is tenative.
+
+PS:
+I somewhat fixed my dogwalk folder, however the scores aren't tallying up.
+could someone help me out?
+
+
+
+
+guys. I won't be able to make it back in time for the presentation or whatever.
+But I can still help out wtih some coding from where i am.
+What else do we need?
