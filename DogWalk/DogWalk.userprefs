@@ -1,10 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\spawner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="I:\temp\GGJ15-aaron\GGJ15\Assets\PlayerStart1.cs">
     <Files>
-      <File FileName="Assets\Scripts\FrontKillBox.cs" Line="30" Column="38" />
-      <File FileName="Assets\Scripts\LoadingScreen.cs" Line="18" Column="24" />
-      <File FileName="Assets\Scripts\spawner.cs" Line="29" Column="3" />
+      <File FileName="I:\temp\GGJ15-aaron\GGJ15\Assets\PlayerStart1.cs" Line="55" Column="31" />
+      <File FileName="I:\temp\GGJ15-aaron\GGJ15\Assets\PlayerStart2.cs" Line="64" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
